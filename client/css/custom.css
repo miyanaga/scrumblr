@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Anzu';
+    src: url(/fonts/anzu.eot);
+    src: local('hide from IE'),
+    url(/fonts/anzu.woff) format("woff"),
+    url(/fonts/anzu.ttf) format("truetype");
+}
+
+h2, .content {
+    font-family: 'Anzu', 'Rock Salt', "Arial Rounded MT Bold", arial, serif;
+    font-size: 160%;
+}
